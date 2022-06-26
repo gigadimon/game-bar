@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/game-bar/static/css/main.5bb62722.css",
+    "main.js": "/game-bar/static/js/main.3d709a1c.js",
+    "index.html": "/game-bar/index.html",
+    "main.5bb62722.css.map": "/game-bar/static/css/main.5bb62722.css.map",
+    "main.3d709a1c.js.map": "/game-bar/static/js/main.3d709a1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bb62722.css",
+    "static/js/main.3d709a1c.js"
+  ]
+}

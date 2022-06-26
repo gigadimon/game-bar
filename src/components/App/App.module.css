@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+  width: 100%;
+}
+.mainContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.score {
+  margin: 10px 0;
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: 500;
+}
